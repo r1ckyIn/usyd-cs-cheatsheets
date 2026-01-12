@@ -1,28 +1,36 @@
-# 📚 USYD Computer Science Cheatsheets
+# USYD Computer Science Cheatsheets
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![University](https://img.shields.io/badge/University-USYD-blue.svg)](https://www.sydney.edu.au/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<div align="center">
 
-> **[中文版 README](./README_CN.md)**
+[![USYD](https://img.shields.io/badge/USYD-CS-00205B?style=flat-square)](https://www.sydney.edu.au/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](http://makeapullrequest.com)
 
-A collection of exam cheatsheets for University of Sydney Computer Science courses. Created by students, for students.
+**A collection of exam cheatsheets for USYD CS courses**
 
-## 🎯 Purpose
+[English](#english) | [中文](./README_CN.md)
+
+</div>
+
+---
+
+## English
+
+### Purpose
 
 As a Computer Science student at the University of Sydney, I understand how tedious and time-consuming it can be to organize study materials during exam season. This repository aims to help fellow students by providing well-structured, comprehensive cheatsheets for various CS courses.
 
 **I hope this spirit of open-source sharing can be passed on!**
 
-## 📖 Available Courses
+### Available Courses
 
 | Course Code | Course Name | Status |
 |-------------|-------------|--------|
-| [COMP2123](./COMP2123/) | Data Structures and Algorithms | ✅ Available |
-| [COMP2022](./COMP2022/) | Models of Computation | ✅ Available |
-| [INFO1113](./INFO1113/) | Object-Oriented Programming | ✅ Available |
+| [COMP2123](./COMP2123/) | Data Structures and Algorithms | Available |
+| [COMP2022](./COMP2022/) | Models of Computation | Available |
+| [INFO1113](./INFO1113/) | Object-Oriented Programming | Available |
 
-## 📂 Repository Structure
+### Repository Structure
 
 ```
 usyd-cs-cheatsheets/
@@ -40,10 +48,9 @@ usyd-cs-cheatsheets/
     └── INFO1113_2.png
 ```
 
-## 📋 Course Overview
+### Course Overview
 
-### COMP2123 - Data Structures and Algorithms
-Topics covered include:
+#### COMP2123 - Data Structures and Algorithms
 - Time Complexity Analysis (Big-O notation)
 - Sorting Algorithms (Merge Sort, Quick Sort, Heap Sort, etc.)
 - Graph Algorithms (BFS, DFS, Dijkstra, MST)
@@ -53,8 +60,7 @@ Topics covered include:
 - Greedy Algorithms
 - Divide and Conquer
 
-### COMP2022 - Models of Computation
-Topics covered include:
+#### COMP2022 - Models of Computation
 - Regular Languages and Regular Expressions
 - Finite Automata (DFA, NFA)
 - NFA to DFA Conversion (Subset Construction)
@@ -66,8 +72,7 @@ Topics covered include:
 - Decidability and Undecidability
 - Propositional Logic
 
-### INFO1113 - Object-Oriented Programming
-Topics covered include:
+#### INFO1113 - Object-Oriented Programming
 - Java Fundamentals
 - Lambda Expressions & Functional Interfaces
 - Generics and Type Parameters
@@ -78,11 +83,11 @@ Topics covered include:
 - JUnit Testing
 - Comparable and Comparator
 
-## 🚀 How to Use
+### How to Use
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/usyd-cs-cheatsheets.git
+   git clone https://github.com/r1ckyIn/usyd-cs-cheatsheets.git
    ```
 
 2. **Navigate to the course folder:**
@@ -92,7 +97,7 @@ Topics covered include:
 
 3. **View or print the cheatsheets** for your exam preparation!
 
-## 🤝 Contributing
+### Contributing
 
 Contributions are welcome and greatly appreciated! Here's how you can help:
 
@@ -101,7 +106,7 @@ Contributions are welcome and greatly appreciated! Here's how you can help:
 3. **Add** your cheatsheet(s) following the existing format
 4. **Submit** a pull request
 
-### Contribution Guidelines
+#### Contribution Guidelines
 
 - Use clear, readable formatting
 - Include course code in file names
@@ -109,14 +114,14 @@ Contributions are welcome and greatly appreciated! Here's how you can help:
 - Keep content accurate and up-to-date
 - Respect academic integrity policies
 
-## ⚠️ Disclaimer
+### Disclaimer
 
 - These cheatsheets are study aids created by students and may contain errors
 - Always verify information with official course materials
 - Use responsibly and in accordance with your exam rules
 - Some exams may not allow cheatsheets - always check with your instructor
 
-## 📅 Update Schedule
+### Update Schedule
 
 This repository will be continuously updated with new courses and materials. Planned additions include:
 
@@ -125,25 +130,29 @@ This repository will be continuously updated with new courses and materials. Pla
 - [ ] COMP3027 - Algorithm Design
 - [ ] More courses coming soon...
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌟 Support
+### Support
 
 If you find this repository helpful, please consider:
-- ⭐ **Starring** this repository
-- 🔄 **Sharing** with your classmates
-- 🤝 **Contributing** your own cheatsheets
-
-## 📧 Contact
-
-If you have any questions, suggestions, or would like to contribute, feel free to:
-- Open an issue on this repository
-- Submit a pull request
+- Starring this repository
+- Sharing with your classmates
+- Contributing your own cheatsheets
 
 ---
 
-**Made with ❤️ by USYD CS Students**
+## License
 
-*Let's learn together and help each other succeed!*
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Author
+
+**Ricky** - CS Student @ University of Sydney
+
+[![GitHub](https://img.shields.io/badge/GitHub-r1ckyIn-181717?style=flat-square&logo=github)](https://github.com/r1ckyIn)
+
+Interested in Cloud Engineering & DevOps
+
+---
+
+**Made with love by USYD CS Students - Let's learn together and help each other succeed!**
