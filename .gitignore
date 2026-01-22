@@ -17,3 +17,10 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Claude Code configuration
+CLAUDE.md
+
+# Local Chinese documentation
+*_CN.md
+*.cn.md
